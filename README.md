@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Doctor Appointment Booking System**
 
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB, Express.js (as part of full-stack development) Figma (for design skills), Advanced JavaScript concepts**
+- 🌱 I’m currently learning **React.js, Next.js, Node.js, MongoDB, Express.js (as part of full-stack development) Figma (for design skills), Advanced JavaScript concepts**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
-- 💬 Ask me about **JavaScript, ReactJS, NodeJS, MongoDB**
+- 💬 Ask me about **JavaScript, ReactJS, NextJS, NodeJS, MongoDB**
 
 - 📫 How to reach me **adityajadhav97349@gmail.com**
 
