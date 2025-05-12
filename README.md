@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India 🇮🇳</h3>
+- 👨‍💻 Full Stack Developer Intern at **Imperative Business Ventures**, contributing to real-world MERN stack applications
 
-- 🔭 I’m currently working on a **Doctor Appointment Booking System**
+- 🔭 Actively building a **Doctor Appointment Booking System** with role-based access, secure payments, and admin management
 
-- 👨‍💻 I'm currently interning at **Imperative Business Ventures** as a **Full Stack Developer Intern**
+- 🌱 Deepening my expertise in **React.js, Next.js, Node.js, MongoDB, Express.js**, and design tools like **Figma**
 
-- 🌱 I’m learning and working with technologies like **React.js, Next.js, Node.js, Express.js, MongoDB, WebSockets**, and design tools like **Figma**
+- 👯 Looking to collaborate on **Full Stack and real-time web development projects**
 
-- 👯 I’m looking to collaborate on **innovative full stack web projects**
+- 💬 Ask me about **JavaScript, NextJS, React, Node, Express, MongoDB, WebSockets**
 
 - 📫 Reach me at **adityajadhav97349@gmail.com**
 
 - ⚡ Fun fact: **I believe curiosity and consistency are key to building great products 🚀**
+
 
 ---
 
