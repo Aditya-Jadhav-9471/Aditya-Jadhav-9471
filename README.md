@@ -1,75 +1,112 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-- 👨‍💻 Full Stack Developer Intern at **Imperative Business Ventures**, contributing to real-world MERN stack applications
+<h1 align="center">Hey there, I'm Aditya Jadhav 👋</h1>
 
-- 🔭 Actively building a **Doctor Appointment Booking System** with role-based access, secure payments, and admin management
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer+%7C+MERN+Stack+Enthusiast;React.js+++Next.js+++Node.js+++MongoDB;Building+Clean%2C+Scalable+Web+Solutions;Let's+Connect%21" />
+</p>
 
-- 🌱 Deepening my expertise in **React.js, Next.js, Node.js, MongoDB, Express.js**, and design tools like **Figma**
-
-- 👯 Looking to collaborate on **Full Stack and real-time web development projects**
-
-- 💬 Ask me about **JavaScript, NextJS, React, Node, Express, MongoDB, WebSockets**
-
-- 📫 Reach me at **adityajadhav97349@gmail.com**
-
-- ⚡ Fun fact: **I believe curiosity and consistency are key to building great products 🚀**
-
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya9471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya9471" height="30" width="40" /></a>
-<a href="https://instagram.com/aadii_9471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadii_9471" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aadii_9471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadii_9471" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/aditya9471" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adityajadhav97349@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aadii9471" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/aadii_9471" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/aadii_9471/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socket.io" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-  <a href="https://figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript" /></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" /></td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" /></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" /></td>
+    <td><img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwindcss" /></td>
+    <td><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" /></td>
+    <td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" /></td>
+    <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" /></td>
+    <td><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io" /></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" /></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" /></td>
+    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" /></td>
+    <td><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql" /></td>
+    <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" /></td>
+    <td><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render" /></td>
+    <td><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite" /></td>
+  </tr>
+</table>
+
+---
+
+## 🔥 What I Do
+
+- Transforming ideas into full-stack, real-world web apps — with a focus on **clean code**, **performance**, and **user-focused design**
+- Real-time app development and seamless API integration with robust authentication & authorization flows
+- Deploying and automating modern stacks using tools like Docker, Vercel, and Render
+
+---
+
+## 💼 Featured Projects
+
+<!-- Doctor Appointment Booking System -->
+**Doctor Appointment Booking System**  
+A role-based web platform for patients and doctors to schedule and manage appointments, featuring JWT authentication, admin dashboard, and secure payment integration.
+
+- **Tech**: React, Node, Express, MongoDB, Tailwind, Razorpay, JWT, REST APIs
+- **Highlights**: Role-based access, responsive UI, payment workflows, admin analytics
+
+---
+
+<!-- Communication Platform -->
+**Real-time Communication Platform**  
+MERN-based communication app featuring live messaging with Socket.IO, secure JWT auth, and a fully responsive interface.
+
+- **Tech**: React, Node.js, Express, MongoDB, Tailwind, Socket.IO, JWT
+- **Highlights**: Instant messaging, optimized backend, scalable design
+
+---
+
+
+## 🏆 Certifications
+
+- 2024 Web Development Bootcamp (Udemy)
+- Program in Website Development (NIIT)
+- Fundamentals of Digital Marketing (Google)
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced system design
+- Clean architecture for large-scale apps
+- Modern, performant UI/UX workflows
+- Real-time, event-driven backends
+
+---
+
+## 🚀 Fun Facts
+
+- Trekking and exploring forts keep my mind sharp
+- I love watching tech podcasts and documentaries
+- Building and shipping side projects is my favorite way to learn
+
+---
+
+<p align="center"><i>Let's build something impactful together!</i></p>
